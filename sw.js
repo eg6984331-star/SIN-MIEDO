@@ -1,4 +1,4 @@
-const CACHE = 'sin miedo-v1';
+const CACHE = 'sin miedo-v2';
 const APP_SHELL = ['./', './index.html', './manifest.json', './icon.svg'];
 
 self.addEventListener('install', e => {
